@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/sauvikd/lift-template/scala_28/lift_basic/project/build'
+let g:netrw_dirhist_2='/Users/sauvikd/kinect/libfreenect/wrappers/java/target/surefire-reports'
+let g:netrw_dirhist_3='/Users/sauvikd/kinect/libfreenect/wrappers/java/src/main/java/org/openkinect/freenect'
+let g:netrw_dirhist_4='/Users/sauvikd/UPSFacebookFriendGrouping/upsfall2011@saucers.cups.cs.cmu.edu'
+let g:netrw_dirhist_5='/Users/sauvikd/railsapps/chimpslab/config'
+let g:netrw_dirhist_6='/Users/sauvikd/railsapps/chimpslab'
+let g:netrw_dirhist_7='/Users/sauvikd/Downloads/ruby-aws-1.4.0/samples'
